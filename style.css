@@ -1,0 +1,26 @@
+.block {
+    padding: 20px;
+    width: 500px;
+    font-size: 20px;
+}
+
+.bluestrocks {
+    background:rgb(7, 155, 192);
+    height: 40px;
+    
+}
+
+.checked {
+    background: white;
+    height: 40px;
+}
+
+.blue {
+    background:rgb(0, 204, 255);
+    height: 40px;
+}
+
+span {
+    color: rgb(146, 13, 13);
+    
+}
