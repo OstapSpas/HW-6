@@ -1,0 +1,56 @@
+ .block {
+    background: rgb(211, 116, 144);
+    padding: 20px; ;
+    color: white;
+    font-size: 24px;
+    
+}
+
+ol {
+    background: rgb(212, 84, 122);
+}
+
+li {
+    
+    background: rgb(187, 28, 76);
+}
+.Apple{
+
+    text-align: center;
+    width: 100px;
+    margin-bottom: 20px;
+
+}
+
+.Orange {
+
+    text-align: center;
+    margin-bottom: 20px;
+    width: 120px;
+
+}
+
+.Pineapple {
+
+    text-align: center;
+    margin-bottom: 20px;
+    width: 150px;
+
+}
+
+.Pear {
+
+    text-align: center;
+    margin-bottom: 20px;
+    width: 70px;
+
+}
+
+.Cherry {
+  
+    text-align: center;
+    margin-bottom: 20px;
+    width: 100px;
+
+} 
+ 
